@@ -3,7 +3,8 @@
 @tailwind components;
 @tailwind utilities;
 
-@import "assets/css/fontiran.css";
+/* add iraniansansweb font */
+@import 'fontiran.css';
 
 @layer base {
     html {
